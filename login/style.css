@@ -18,7 +18,7 @@ a {
   text-decoration: unset;
 }
 .login-root {
-    background: #fff;
+    background: transparent !important;
     display: flex;
     width: 100%;
     min-height: 100vh;
@@ -69,7 +69,7 @@ a {
     background-color: #5469d4;
 }
 .box-background--white {
-  background-color: #ffffff; 
+  background-color: transparent !important;
 }
 .box-background--blue800 {
     background-color: #212d63;
